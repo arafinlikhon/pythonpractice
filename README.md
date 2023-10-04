@@ -22,7 +22,7 @@ If you have suggestions, corrections, or new practice ideas, I encourage you to 
 
 ## Let's Connect
 
-I'm on a journey to become a Python pro, and I'd love to connect with fellow learners and developers. You can find me on [GitHub](https://github.com/your-github-profile) and [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile). Let's learn and grow together!
+I'm on a journey to become a Python pro, and I'd love to connect with fellow learners and developers. You can find me on [GitHub](https://github.com/arafinlikhon). Let's learn and grow together!
 
 Happy coding!
 
